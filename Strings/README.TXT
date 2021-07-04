@@ -12,3 +12,4 @@ AUTHORS:oriapp (R C N)
 USER INSTRUCTIONS:
 
 NOTE: char last=name.charAt(l-1); (Getting last char)
+to compare two strings use str.equals("str2")
