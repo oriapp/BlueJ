@@ -10,6 +10,6 @@ public class testArraysStream
             arr[i] = line;
         }
         
-        System.out.println(Arrays.stream(arr).sum());
+        // System.out.println(Arrays.stream(arr).sum());
     }
 }
