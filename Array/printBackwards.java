@@ -1,5 +1,11 @@
 import java.util.*;
 public class printBackwards
+/*
+ * TASK NUMBER: 3
+ * 
+ * Write a program that will take 10 inputs from the user
+ * and print them backwards
+ */
 {
     static public void main(String args[]){
         Scanner scanner = new Scanner(System.in);

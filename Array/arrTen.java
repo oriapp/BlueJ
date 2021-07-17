@@ -1,5 +1,8 @@
 public class arrTen
 /*
+ * TASK NUMBER: 1
+ * 
+ * 
  * Write a program that will have an array with  10 elements and fill them up with numbers from 1 to 9
  */
 {

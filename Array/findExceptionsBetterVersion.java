@@ -1,6 +1,8 @@
 import java.util.*;
 public class findExceptionsBetterVersion
 /*
+ * TASK NUMBER: 9
+ * 
  * For an array named "arr" with 8 elements.
  * write a program that will check if each element equals the other elements in the array
  * and and return a match message/response for the results 9:

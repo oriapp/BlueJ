@@ -1,6 +1,8 @@
 import java.util.*;
 public class arrTwenty
 /*
+ * TASK NUMBER: 2
+ * 
  * Count how many int's are equals to the last element in the array
  */
 {

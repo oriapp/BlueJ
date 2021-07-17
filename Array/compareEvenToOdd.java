@@ -1,6 +1,7 @@
 import java.util.*;
 public class compareEvenToOdd
 /*
+ * TASK NUMBER: 8
  * For an array with 20 elements
  * Write a program that will prints if the values from the even elements are equals to the values from odd elements
  */

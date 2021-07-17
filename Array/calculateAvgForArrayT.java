@@ -1,5 +1,8 @@
 import java.util.*;
-public class calculateAvgForArray
+public class calculateAvgForArrayT
+/*
+ * Test of something, you can ignore.
+ */
 {
     public static void mian(String args[]){
         Scanner scanner = new Scanner(System.in);
