@@ -103,10 +103,6 @@ public class Student
     }
     
     public boolean goodStudent(){
-        if (this.scoreYearly >= 90){
-            return true;
-        } else {
-            return false;
-        }
+        return this.scoreYearly >= 90; // okay amit
     }
 }
