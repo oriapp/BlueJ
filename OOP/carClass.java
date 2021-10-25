@@ -78,7 +78,7 @@ public class carClass
     }
     
     public static void main(String args[]) throws Exception{
-        Car myObj = new Car();
+        // Car myObj = new Car();
         
     }
 }
