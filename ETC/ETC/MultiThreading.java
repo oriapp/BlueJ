@@ -5,7 +5,7 @@
  * @author (Ori Appelbaum)
  * @version (1.0.0 1/11/2022 GMT +2)
  */
-public class MultiThreading extends Thread
+public class MultiThreading implements Runnable
 {
     // Thread idnifier number
     private int threadNumber;
