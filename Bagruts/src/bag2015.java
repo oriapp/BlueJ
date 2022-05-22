@@ -14,4 +14,6 @@ public class bag2015 {
         int[] x = {1, 2, 3, 4, 5};
         System.out.println(returnAvg2(x).getAsDouble()  );
     }
+
+
 }
